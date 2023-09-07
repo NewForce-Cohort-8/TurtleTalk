@@ -1,0 +1,16 @@
+.turtle_img {
+    height: 12em;
+    width: 12em;
+}
+
+.card {
+    border: 1px solid black;
+    margin: 1em;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.card_parent {
+    display: flex;
+    justify-content: space-between;
+}
